@@ -3,6 +3,9 @@
 from algos.random import RandomRabbit
 from algos.linear import LinearRabbit
 
+# Cool introduction must be...
+print("Rabbit Problem Pyton - built with 🧠 by Assembless")
+
 # Defaults for initializing the Rabbit instances.
 default_holes = 10
 
