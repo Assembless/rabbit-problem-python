@@ -4,7 +4,7 @@
 ## Run rabbit
 
 To run the rabbit program, execute the command below in the root directory of the project.
-`python main.go`
+`python main.py`
 
 
 more coming soon...
